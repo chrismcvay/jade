@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1533410503 source:/home/developer/projects/jade/project5/FootballTeam.cpp
+	"FootballTeam.h"
+
+1533410557 /home/developer/projects/jade/project5/FootballTeam.h
+	<string>
+
+1533410669 source:/home/developer/projects/jade/project5/main.cpp
+	<iostream>
+	<cstdlib>
+	"FootballTeam.h"
+
