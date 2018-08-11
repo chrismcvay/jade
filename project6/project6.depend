@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1533963775 source:/home/developer/projects/jade/project6/Board.cpp
+	"Board.h"
+
+1529288772 /home/developer/projects/jade/project6/Board.h
+	"BoardRow.h"
+
+1529288772 /home/developer/projects/jade/project6/BoardRow.h
+	<string>
+
+1529288772 source:/home/developer/projects/jade/project6/BoardRow.cpp
+	"BoardRow.h"
+
+1529288772 source:/home/developer/projects/jade/project6/Die.cpp
+	"Die.h"
+	<random>
+
+1529288772 /home/developer/projects/jade/project6/Die.h
+
+1529288772 source:/home/developer/projects/jade/project6/main.cpp
+	<iostream>
+	"Die.h"
+	"Player.h"
+	"Bunco.h"
+	<windows.h>
+	<cstring>
+
+1529288772 /home/developer/projects/jade/project6/Player.h
+	"Die.h"
+
+1529288772 /home/developer/projects/jade/project6/Bunco.h
+	<string>
+	"Player.h"
+	"Board.h"
+
+1533965729 source:/home/developer/projects/jade/project6/Player.cpp
+	"Player.h"
+
